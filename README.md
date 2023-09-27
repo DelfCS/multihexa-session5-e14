@@ -7,18 +7,11 @@ Comme language, j'ai choisi Svelte (qui est un framework javascript)
 
 <hr>
 
-Pour ce projet, j'inclue
-<ul>
-    <li></li>
-    <li>Les posts, quisont créés par les utilisateurs</li>
-    <li>Les réponses associées, qui sont également écrites par les utilisateurs</li>
-</ul>
+Le document powerpoint est celui que j'ai utilisé lors de la présentation orale. <br>
 
-<hr>
+L'entièreté de mon code se retrouve dans Poker-Table/src/App.svelte. <br>
 
-La grande majorité de mon code se retrouve dans les dossiers : Controllers, Models, Views et dans le fichier appsettings.json
 
-Le fichier word M24-TP-DelfikLatulippe résume l'entièreté de mon travail.
 
 
 
